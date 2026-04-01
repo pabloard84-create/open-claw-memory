@@ -10,3 +10,5 @@
 - Pablo prefiere respuestas cortas y directas, con conclusiones primero cuando sea posible.
 - Para tareas largas o enredadas, usar checkpoints breves y guardar contexto en archivos.
 - Telegram ya cubre la mensajería con el asistente; conectar el teléfono a OpenClaw solo tiene sentido si hay un caso de uso concreto para nodo/app móvil.
+- Objetivo explícito: construir memoria de largo plazo y proactividad real, con capacidad de recuperar contexto histórico años después.
+- La memoria importante debe quedar escrita, versionada y respaldada en remoto.

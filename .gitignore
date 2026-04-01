@@ -1,2 +1,7 @@
-
+# Large/generated artifacts
 models/whisper/
+.openclaw/
+tmp/
+
+# OS/editor noise
+.DS_Store
